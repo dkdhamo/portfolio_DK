@@ -473,6 +473,7 @@ body.light hr.separator {
     text-transform: uppercase;
     padding: 0 25px 0 30px;
     height: 50px;
+    
   }
 
   .header .icon-box a:hover h2 {
@@ -499,16 +500,16 @@ body.light hr.separator {
 }
 
 .home .bg {
-  background-image: url(../img/blog/IMG.png);
+  background-image: url(../img/blog/edited_pp.jpg);
   background-color: #111;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
-  height: calc(100vh - 60px);
+  height: calc(100vh - 90px);
   z-index: 111;
   border-radius: 15px;
   left: 30px;
-  top: 30px;
+  top: 40px;
   box-shadow: 0 0 7px rgba(0,0,0,.9);
 }
 
